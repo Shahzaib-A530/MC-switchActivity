@@ -14,7 +14,7 @@
         android:layout_marginStart="44dp"
         android:background="@color/design_default_color_error"
         android:text="On click this button you will move to the next activity"
-        android:textColor="@color/black"
+        android:textColor="#4DB6AC"
         android:textSize="24sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
